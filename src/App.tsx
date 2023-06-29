@@ -4,6 +4,7 @@ import Header from './Header';
 import { EmailForm } from './EmailForm';
 import Footer from './Footer';
 import HomePage from './HomePage';
+import React from 'react';
 
 const App = () => (
   <Router>

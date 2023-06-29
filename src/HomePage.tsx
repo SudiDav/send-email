@@ -1,4 +1,5 @@
 import BlogCard from './BlogCard';
+import React from 'react';
 
 const HomePage = () => {
   return (
