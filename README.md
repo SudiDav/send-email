@@ -1,8 +1,8 @@
-# Clone the project
+ Clone the project
 
-# Do `npm install`
+ Do `npm install`
 
-# Check if port match 
+ Check if port match 
 
 ### `npm start`
 
